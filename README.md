@@ -1,4 +1,4 @@
-# Network Intrusion Detection System (NIDS) for Windows
+# Network Intrusion Detection System (NIDS) for Windows System
 
 A complete, production-ready Network Intrusion Detection System written in pure C for Windows, using Npcap/WinPcap for real-time packet capture and analysis.
 
